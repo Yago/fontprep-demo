@@ -1,0 +1,70 @@
+/*=============================================================================
+** FONTS
+**============================================================================*/
+
+
+/* FontPrep kit */
+@font-face {
+  font-family: 'Dekar FontPrep';
+  src: url('../fonts/fontprep/Dekar.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/fontprep/Dekar.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/fontprep/Dekar.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/fontprep/Dekar.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/fontprep/Dekar.svg#svg') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
+/* Font Squirrel kit */
+@font-face {
+    font-family: 'Dekar FontSquirrel';
+    src: url('../fonts/fontsquirrel/dekar-webfont.eot');
+    src: url('../fonts/fontsquirrel/dekar-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/fontsquirrel/dekar-webfont.woff') format('woff'),
+         url('../fonts/fontsquirrel/dekar-webfont.ttf') format('truetype'),
+         url('../fonts/fontsquirrel/dekar-webfont.svg#dekarregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+/*=============================================================================
+** STYLES
+**============================================================================*/
+
+body {
+  line-height: 1.7em;
+  background-color: #ededed;
+  padding-bottom: 30px;
+}
+
+h1 {
+  font-weight: 100;
+  text-transform: uppercase;
+  margin: 0;
+  margin-bottom: 20px;
+  font-size: 50px;
+  text-align: center;
+  line-height:  60px;
+}
+
+div {
+  max-width: 500px;
+  margin: 0 auto;
+  margin-top: 80px;
+}
+
+.font-prep {
+  font-family: 'Dekar FontPrep', Arial, sans-serif;
+}
+
+.font-squirrel {
+  font-family: 'Dekar FontSquirrel', Arial, sans-serif;
+}
+
+p {
+  text-align: justify;
+}
+
