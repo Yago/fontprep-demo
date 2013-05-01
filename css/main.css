@@ -35,34 +35,36 @@
 **============================================================================*/
 
 body {
-	line-height: 1.7em;
+  line-height: 1.7em;
+  background-color: #ededed;
+  padding-bottom: 30px;
 }
 
 h1 {
-	font-weight: 100;
-	text-transform: uppercase;
-	margin: 0;
-	margin-bottom: 20px;
-	font-size: 50px;
-	text-align: center;
-	line-height:  60px;
+  font-weight: 100;
+  text-transform: uppercase;
+  margin: 0;
+  margin-bottom: 20px;
+  font-size: 50px;
+  text-align: center;
+  line-height:  60px;
 }
 
 div {
-	max-width: 500px;
-	margin: 0 auto;
-	margin-top: 80px;
+  max-width: 500px;
+  margin: 0 auto;
+  margin-top: 80px;
 }
 
 .font-prep {
-	font-family: 'Dekar FontPrep', Arial, sans-serif;
+  font-family: 'Dekar FontPrep', Arial, sans-serif;
 }
 
 .font-squirrel {
-	font-family: 'Dekar FontSquirrel', Arial, sans-serif;
+  font-family: 'Dekar FontSquirrel', Arial, sans-serif;
 }
 
 p {
-	text-align: justify;
+  text-align: justify;
 }
 
