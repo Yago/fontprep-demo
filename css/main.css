@@ -5,15 +5,14 @@
 
 /* FontPrep kit */
 @font-face {
-  font-family: 'Dekar FontPrep';
-  src: url('../fonts/fontprep/Dekar.eot'); /* IE9 Compat Modes */
-  src: url('../fonts/fontprep/Dekar.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('../fonts/fontprep/Dekar.woff') format('woff'), /* Modern Browsers */
-       url('../fonts/fontprep/Dekar.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('../fonts/fontprep/Dekar.svg#svg') format('svg'); /* Legacy iOS */
-       
-  font-style:   normal;
-  font-weight:  400;
+    font-family: 'Dekar FontPrep';
+    src: url('../fonts/fontprep/dekar.eot');
+    src: url('../fonts/fontprep/dekar.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/fontprep/dekar.woff') format('woff'),
+         url('../fonts/fontprep/dekar.ttf') format('truetype'),
+         url('../fonts/fontprep/dekar.svg#dekarregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
 
 /* Font Squirrel kit */
