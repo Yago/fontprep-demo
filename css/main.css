@@ -6,11 +6,11 @@
 /* FontPrep kit */
 @font-face {
     font-family: 'Dekar FontPrep';
-    src: url('../fonts/fontprep/dekar.eot');
-    src: url('../fonts/fontprep/dekar.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/fontprep/dekar.woff') format('woff'),
-         url('../fonts/fontprep/dekar.ttf') format('truetype'),
-         url('../fonts/fontprep/dekar.svg#dekarregular') format('svg');
+    src: url('../fonts/fontprep/dekar-webfont.eot');
+    src: url('../fonts/fontprep/dekar-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/fontprep/dekar-webfont.woff') format('woff'),
+         url('../fonts/fontprep/dekar-webfont.ttf') format('truetype'),
+         url('../fonts/fontprep/dekar-webfont.svg#dekarregular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
